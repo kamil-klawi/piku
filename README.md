@@ -53,50 +53,53 @@ Prezentowany układ to elektroniczny moduł sygnalizacyjny, który symuluje dzia
 
 ## Płytka przed i po konstrukcji
 
-<div style="display: flex; gap: 20px; justify-content: center; text-align: center; margin-bottom: 20px;">
-  
-  <figure style="margin: 0; width: 48%;">
-    <img src="Zdjecia/plytka_po_wywolaniu.png" alt="Płytka po wywołaniu" style="width: 100%;" />
-    <figcaption><em>Rysunek 4. Płytka po wywołaniu</em></figcaption>
-  </figure>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="Zdjecia/plytka_po_wywolaniu.png" alt="Płytka po wywołaniu" width="100%">
+      <br>
+      <em>Rysunek 4. Płytka po wywołaniu</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="Zdjecia/plytka_po_wytrawieniu.png" alt="Płytka po wytrawieniu" width="100%">
+      <br>
+      <em>Rysunek 5. Płytka po wytrawieniu</em>
+    </td>
+  </tr>
+</table>
 
-  <figure style="margin: 0; width: 48%;">
-    <img src="Zdjecia/plytka_po_wytrawieniu.png" alt="Płytka po wytrawieniu" style="width: 100%;" />
-    <figcaption><em>Rysunek 5. Płytka po wytrawieniu</em></figcaption>
-  </figure>
-
-</div>
-
-<div style="display: flex; gap: 20px; justify-content: center; text-align: center; margin-bottom: 20px;">
-  
-  <figure style="margin: 0; width: 48%;">
-    <img src="Zdjecia/widok_plytki_pcb_po_montazu_warstwa_gorna.png" alt="Widok płytki PCB po montażu warstwa górna" style="width: 100%;" />
-    <figcaption><em>Rysunek 6. Widok płytki PCB po montażu warstwa górna</em></figcaption>
-  </figure>
-
-  <figure style="margin: 0; width: 48%;">
-    <img src="Zdjecia/widok_plytki_pcb_po_montazu_strona_sciezki.png" alt="Widok płytki PCB po montażu strona ścieżki" style="width: 100%;" />
-    <figcaption><em>Rysunek 7. Widok płytki PCB po montażu strona ścieżki</em></figcaption>
-  </figure>
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="Zdjecia/widok_plytki_pcb_po_montazu_warstwa_gorna.png" alt="Widok płytki PCB po montażu warstwa górna" width="100%">
+      <br>
+      <em>Rysunek 6. Widok płytki PCB po montażu warstwa górna</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="Zdjecia/widok_plytki_pcb_po_montazu_strona_sciezki.png" alt="Widok płytki PCB po montażu strona ścieżki" width="100%">
+      <br>
+      <em>Rysunek 7. Widok płytki PCB po montażu strona ścieżki</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Wnioski
 
-<div style="display: flex; gap: 20px; justify-content: center; text-align: center; margin-bottom: 20px;">
-  
-  <figure style="margin: 0; width: 48%;">
-    <img src="Zdjecia/faza_aktywnosci_diod_LED_czerwonych.png" alt="Prezentacja działania zmontowanego układu faza aktywności diod LED czerwonych" style="width: 100%;" />
-    <figcaption><em>Rysunek 8. Prezentacja działania zmontowanego układu faza aktywności diod LED czerwonych</em></figcaption>
-  </figure>
-
-  <figure style="margin: 0; width: 48%;">
-    <img src="Zdjecia/faza_aktywnosci_diod_LED_niebieski.png" alt="Prezentacja działania zmontowanego układu faza aktywności diod LED niebieskich" style="width: 100%;" />
-    <figcaption><em>Rysunek 9. Prezentacja działania zmontowanego układu faza aktywności diod LED niebieskich</em></figcaption>
-  </figure>
-
-</div>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="Zdjecia/faza_aktywnosci_diod_LED_czerwonych.png" alt="Prezentacja działania zmontowanego układu faza aktywności diod LED czerwonych" width="100%">
+      <br>
+      <em>Rysunek 8. Prezentacja działania zmontowanego układu faza aktywności diod LED czerwonych</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="Zdjecia/faza_aktywnosci_diod_LED_niebieski.png" alt="Prezentacja działania zmontowanego układu faza aktywności diod LED niebieskich" width="100%">
+      <br>
+      <em>Rysunek 9. Prezentacja działania zmontowanego układu faza aktywności diod LED niebieskich</em>
+    </td>
+  </tr>
+</table>
 
 Na podstawie przeprowadzonych testów laboratoryjnych stwierdzono, że zmontowany układ elektroniczny działa w pełni poprawnie i zgodnie z założeniami projektowymi. Urządzenie bezproblemowo przełącza się pomiędzy fazą aktywności diod LED czerwonych (Rys. 8) a fazą aktywności diod LED niebieskich (Rys. 9).
